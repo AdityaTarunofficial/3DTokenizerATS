@@ -5,7 +5,7 @@ Welcome to the **3D Tokenizer** project! This web application allows users to in
 
 ## 🌐 **Live Demo**
 Check out the live version of the chatbot here:  
-[**Hosted Chatbot Website**](https://threedtokenizerats.onrender.com/)
+[**Hosted Website**](https://threedtokenizerats.onrender.com/)
 
 ## 🌟 Features
 
