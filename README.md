@@ -48,15 +48,15 @@ Welcome to the **3D Tokenizer** project! This web application allows users to in
 2. Click the "Tokenize" button.
 3. View the tokens and their visualization in 3D.
 
-## 📄 License
+## Screenshots
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Home Page
+![Homepage](./Homepage.png)
 
-## 🤝 Acknowledgements
+### Prediction Page
+![Tokeniztion](./tokenization.png)
 
-- Inspired by natural language processing and visualization techniques.
-- Special thanks to the contributors and the open-source community!
+### Plotting Page
+![Graph](./tokenplot.png)
 
----
 
-Feel free to modify any sections or details to better fit your project or preferences!
