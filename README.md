@@ -3,6 +3,10 @@
 
 Welcome to the **3D Tokenizer** project! This web application allows users to input sentences and visualize the tokenization process in a 3D scatter plot. Built with Node.js and Express for the backend and plain HTML/CSS for the frontend, this project serves as an educational tool for understanding natural language processing (NLP).
 
+## 🌐 **Live Demo**
+Check out the live version of the chatbot here:  
+[**Hosted Chatbot Website**](https://threedtokenizerats.onrender.com/)
+
 ## 🌟 Features
 
 - **Tokenization**: Enter a sentence to see how it is split into individual tokens (words).
